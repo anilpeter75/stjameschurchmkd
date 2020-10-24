@@ -1,0 +1,92 @@
+.nav-color
+{
+    background-color:#6ec4db;
+}
+.navbar-nav li a
+{
+    color: white !important;
+}
+.navbar-nav li a:hover
+{
+    color: black !important;
+    font-weight: bold;
+    transition: .8s;
+}
+.about-us
+{
+    padding: 30px;
+    text-align: justify;
+}
+.holy-mass
+{
+    padding: 30px;
+    text-align: justify;
+    text-align: center;
+    background-color: #a0d2eb;
+    
+}
+.thead-color
+{
+    background-color: #ffa8B6;
+    color: white;
+    text-align: center;
+    font-size: 22px;
+}
+.confession
+{
+    background-color: #ffa8B6;
+    color: white;
+    width: 100%;   
+    padding: 10px;
+    font-weight: bold;
+}
+.novena
+{
+    text-align: center;
+    padding: 10px;
+}
+.novena-prayer
+{
+    font-size: 18px;
+    margin-left: 10px;
+}
+.contact-us
+{
+    background-color: #a0d2eb;
+}
+.get-in
+{
+    width: 250px;
+    height: 200px;
+    background-color:blue;
+    margin: auto;
+}
+.get-in-text
+{
+    color: white;
+    font-size: 16px;
+    padding: 20px 0px 12px 15px;
+}
+.footer
+{
+    text-align: center;
+    height: 50px;
+    background-color:#6ec4db;
+    padding: 10px;
+    color: white;
+}
+    
+
+
+@media (max-width: 768px) { 
+     .iframe,.get-in {
+        width:100%;
+    }
+    .novena-responsive
+    {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        text-align: justify;
+      
+    }
+}
