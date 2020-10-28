@@ -87,6 +87,10 @@
         white-space: pre-wrap;
         word-wrap: break-word;
         text-align: justify;
-      
     }
+    .thead-color
+{
+  
+    font-size: 16px;
+}
 }
